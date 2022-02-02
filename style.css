@@ -1,5 +1,4 @@
-style> /* CSS */
-  :root{ /* colores base (pseudoclass)*/
+  :root{ 
       --white: #ffffff;
       --black: #000000;
       --very-light-pink: #c7c7c7;
@@ -84,4 +83,4 @@ style> /* CSS */
       display: block;
     }
   }
-  </style>
+  
